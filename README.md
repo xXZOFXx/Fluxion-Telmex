@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/FluxionNetwork/fluxion/blob/master/logos/logo2.jpg?raw=true" /></p>
+<p align="center"><img src="https://github.com/FluxionNetwork/fluxion/blob/master/logos/logo1.jpg?raw=true" /></p>
 
 # Fluxion is the future of MITM WPA attacks
 Fluxion is a remake of linset by vk496 with (hopefully) less bugs and more functionality. It's compatible with the latest release of Kali (rolling). The attack is mostly manual, but experimental versions will automatically handle most functionality from the stable releases.
@@ -36,7 +36,7 @@ If you want to submit a feature, do so by labeling your issue as an "enhancement
 
 ## :scroll: Changelog
 Fluxion gets weekly updates with new features, improvements and bugfixes.
-Be sure to check out the [changelog here] (https://github.com/FluxionNetwork/fluxion/commits/master).
+Be sure to check out the [changelog here](https://github.com/FluxionNetwork/fluxion/commits/master).
 
 ## :octocat: How to contribute
 All contributions are welcome! Code, documentation, graphics or even design suggestions are welcome; use GitHub to its fullest. Submit pull requests, contribute tutorials or other wiki content -- whatever you have to offer, it would be appreciated!
@@ -64,7 +64,8 @@ A Linux-based operating system. We recommend Kali Linux 2 or Kali 2016.1 rolling
 5. Princeofguilty - @webpages
 6. Photos for wiki @http://www.kalitutorials.net
 7. Ons Ali @wallpaper
-
+8. PappleTec @sites
+9. modified by xXZOFXx
 ## Disclaimer
 
 ***Fluxion is intended to be used for legal security purposes only, and you should only use it to protect networks/hosts you own or have permission to test. Any other use is not the responsibility of the developer(s).  Be sure that you understand and are complying with the Fluxion licenses and laws in your area.  In other words, don't be stupid, don't be an asshole, and use this tool responsibly and legally.***
